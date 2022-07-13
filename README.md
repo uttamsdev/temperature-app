@@ -5,8 +5,9 @@ This an API Project with JavaScript DOM. User will get the temperature by search
 ## Technologies that are used to build this project:
 - HTML
 - CSS
+- Bootstrap
 - JS
 - API
-- Bootstrap
+
 
 `Live Link`: https://uttamsaha.github.io/Temperature-App/
